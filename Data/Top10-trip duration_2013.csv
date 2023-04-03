@@ -1,0 +1,11 @@
+tripduration,starttime,stoptime,start station id,start station name,start station latitude,start station longitude,end station id,end station name,end station latitude,end station longitude,bikeid,usertype,birth year,gender
+3876479,2013-06-04 4:51,2013-07-19 1:39,291,Madison St & Montgomery St,40.713126,-73.984844,469,Broadway & W 53 St,40.76344058,-73.98268129,15259,Customer,NULL,Female
+2742506,2013-06-02 13:11,2013-07-04 6:59,168,W 18 St & 6 Ave,40.73971301,-73.99456405,513,W 56 St & 10 Ave,40.768254,-73.988639,17918,Customer,NULL,Female
+1860069,2013-06-19 12:32,2013-07-11 1:14,465,Broadway & W 41 St,40.75513557,-73.98658032,517,Pershing Square South,40.751581,-73.97791,19866,Customer,NULL,Female
+1331178,2013-06-05 11:42,2013-06-20 21:28,327,Vesey Pl & River Terrace,40.7153379,-74.01658354,519,Pershing Square North,40.751873,-73.977706,17215,Customer,NULL,Female
+1239509,2013-06-23 20:36,2013-07-08 4:55,398,Atlantic Ave & Furman St,40.69165183,-73.9999786,372,Franklin Ave & Myrtle Ave,40.69454609,-73.95801365,17806,Customer,NULL,Female
+1048424,2013-06-14 15:40,2013-06-26 18:54,480,W 53 St & 10 Ave,40.76669671,-73.99061728,362,Broadway & W 37 St,40.75172632,-73.98753523,17917,Customer,NULL,Female
+865531,2013-06-19 18:49,2013-06-29 19:14,459,W 20 St & 11 Ave,40.746745,-74.007756,468,Broadway & W 56 St,40.7652654,-73.98192338,18152,Customer,NULL,Female
+764344,2013-06-12 14:47,2013-06-21 11:06,173,Broadway & W 49 St,40.76068327,-73.98452729,432,E 7 St & Avenue A,40.72621788,-73.98379855,15043,Customer,NULL,Female
+661180,2013-06-16 19:17,2013-06-24 10:57,342,Columbia St & Rivington St,40.71739973,-73.98016555,270,Adelphi St & Myrtle Ave,40.69308257,-73.97178913,19755,Customer,NULL,Female
+625137,2013-06-13 18:14,2013-06-20 23:53,405,Washington St & Gansevoort St,40.739323,-74.008119,538,E 48 St & Madison Ave,40.75666,-73.976684,15948,Customer,NULL,Female
