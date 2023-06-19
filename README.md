@@ -13,4 +13,5 @@ Data collected from [citibikenyc](https://citibikenyc.com/system-data).
 
    > [Tableau - Story 2](https://public.tableau.com/app/profile/andreza.dos.santos6466/viz/Citi_Bike_Data-Story2/Story2?publish=yes)
 
-![image](https://user-images.githubusercontent.com/114877740/229651418-f0d6bb51-ae90-4925-847d-896165290be8.png)
+![image](https://github.com/a-matos/Tableau/assets/114877740/4b9fbce6-8f91-405f-a744-b023f420c5ed)
+
